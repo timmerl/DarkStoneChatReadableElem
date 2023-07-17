@@ -1,0 +1,12 @@
+ {
+    "author" : "Logyk-Stick", 
+    "name" : "darkStoneChatReadableElem", 
+    "keyWords" : "darkStoneChatReadableElem",
+    "version" : "1.0.0",
+    "dofusVersion" : "2.68",
+    "description" : "Modifie les couleurs des éléments dans le chat. Violet pour neutre et blanc rosé pour multi. Le canal information est blanc et fera mieux ressortir les éléments utilisés", 
+    "url" : "",
+    "previewUrl" : "",
+    "creationDate" : "17/07/2023", 
+    "modificationDate" : "17/07/2023"
+}

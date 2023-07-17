@@ -1,0 +1,11 @@
+<theme>
+    <name>darkStoneChatReadableElem</name>
+    <skinType>1</skinType>
+    <description>description</description>
+    <previewUri>darkStoneChatReadableElem.png</previewUri>
+	<author>Logyk-Stick</author>
+	<version>1.0.0</version>
+    <dofusVersion>2.68</dofusVersion> 
+    <creationDate>17/07/2023</creationDate> 
+    <modificationDate>17/07/2023</modificationDate> 
+</theme>
